@@ -1,3 +1,2 @@
-all_variables.pkl
-model1_melhor_fold.h5
-modelo_retreinado.h5
+*.pkl
+*.h5
